@@ -43,7 +43,7 @@ form{
     margin: 20px auto;
     padding:20px;
     background: #fff;
-    box-shadow:0 5px 15px rgba(0,0,0,0.1)
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
 }
 form input[type="text"],
 form input[type="email"],
